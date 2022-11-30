@@ -1,9 +1,10 @@
 import React from 'react'
+import './button.css'
 
-function button(props) {
+function Button(props) {
   return (
     <button {...props} className={'button'+ props.className}/>
   )
 }
 
-export default button
+export default Button;
