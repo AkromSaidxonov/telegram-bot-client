@@ -1,7 +1,6 @@
 [build]
-    command: npm run build
-    commandOrigin: ui
-    publish: /opt/build/repo/build
+    commad = "npm run buil"
+    publish = "/build"
     base = "/"
 
 [[redirects]]
