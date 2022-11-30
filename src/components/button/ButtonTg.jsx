@@ -1,5 +1,5 @@
 import React from "react";
-import "./Button.css";
+import "./ButtonTg.css";
 
 const Button = (props) => {
   return <button {...props} className={"button " + props.className} />;
