@@ -1,6 +1,7 @@
 [build]
-   CI= 'npm run build'
-
+    commad = "npm run buil"
+    publish = "/build"
+    base = "/"
 
 [[redirects]]
     from = "/*"
