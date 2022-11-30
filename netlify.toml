@@ -1,5 +1,5 @@
 [build]
-    commad = "npm run buil"
+    commad =CI= 'npm run build'
     publish = "/build"
     base = "/"
 
